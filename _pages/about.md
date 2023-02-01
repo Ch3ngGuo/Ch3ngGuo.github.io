@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Master student at the **Huazhong University of Science and Technology (HUST)**, majoring in Information and Communication Engineering. My research interests lie in the intersection of **Passive Millimeter-wave imaging** and **Computer Vision**. Currently, I am doing research about $\underline{real-time ocean target tracking}$, $\underline{concealed object detection}$, and $\underline{ditributed coopertive perception}$ in the Multispectral Information Processing (MIP) Lab. You can visit [Research](https://academicpages.github.io/Reasearch/) to know more details.
+I am a Master student at the **Huazhong University of Science and Technology (HUST)**, majoring in Information and Communication Engineering. My research interests lie in the intersection of **Passive Millimeter-wave imaging** and **Computer Vision**. Currently, I am doing research about <u>real-time ocean target tracking</u>, <u>concealed object detection</u>, and <u>ditributed coopertive perception</u> in the Multispectral Information Processing (MIP) Lab. You can visit [Research](https://academicpages.github.io/Reasearch/) to know more details.
 
 Meanwhile, I am also looking for PhD opportunities. To learn more about me, you can have a view of my CV page [here](/files/ChengGuo_CV.pdf).
 
