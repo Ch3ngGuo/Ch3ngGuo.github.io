@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
@@ -8,8 +8,8 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Passive millimeter-wave (PMMW) is a significant potential technique for human security screening. Several popular object detection networks have been used for PMMW images. However, restricted by the low resolution and high noise of PMMW images, PMMW hidden object detection based on deep learning usually suffers from low accuracy and low classification confidence. To tackle the above problems, this paper proposes a Task-Aligned Detection Transformer network, named PMMW-DETR. In the first stage, a Denoising Coarse-to-Fine Transformer (DCFT) backbone is designed to extract long- and short-range features in the different scales. In the second stage, we propose the Query Selection module to introduce learned spatial features into the network as prior knowledge, which enhances the semantic perception capability of the network. In the third stage, aiming to improve the classification performance, we perform a Task-Aligned Dual-Head block to decouple the classification and regression tasks. Based on our self-developed PMMW security screening dataset, experimental results including comparison with State-Of-The-Art (SOTA) methods and ablation study demonstrate that the PMMW-DETR obtains higher accuracy and classification confidence than previous works, and exhibits robustness to the PMMW images of low quality.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download PDF](http://academicpages.github.io/files/paper1.pdf) | [Github](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
