@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cheng Guo"
-  avatar           : "portrait.jpg"
+  avatar           : "portrait.png"
   bio              : "MSc in Information and Communication Engineering in HUST"
   location         : "Wuhan, HuBei, China"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
