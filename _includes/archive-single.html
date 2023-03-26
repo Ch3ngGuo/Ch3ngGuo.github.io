@@ -53,7 +53,7 @@
     {% endif %}
 
     {% if post.illustration %} 
-    <p> <img src="post.illustration" width="500"> </p>
+    <p> <img src="post.illustration"> </p>
     
     {% endif %}
 
@@ -63,7 +63,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p> <a href=" {{ post.paperurl }} "><u>ArXiv</u></a></p>
+      <p> <a href=" {{ post.paperurl }} "><u>Read More</u></a></p>
     {% endif %}
 
   </article>
