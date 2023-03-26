@@ -13,7 +13,7 @@ I am a Master student at the **Huazhong University of Science and Technology (HU
 
 Meanwhile, I am also looking for PhD opportunities. To learn more about me, you can have a view of my CV page [here](/files/ChengGuo_CV.pdf).
 
-
+![illustration](/images/fig_arch.pdf)
 
 Recent News
 ------
