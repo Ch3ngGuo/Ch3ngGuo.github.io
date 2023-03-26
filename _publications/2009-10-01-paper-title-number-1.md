@@ -3,7 +3,7 @@
 title: "Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Based on our self-developed PMMW security screening dataset, experimental results including comparison with State-Of-The-Art (SOTA) methods and ablation study demonstrate that the PMMW-DETR obtains higher accuracy and classification confidence than previous works, and exhibits robustness to the PMMW images of low quality.<br/><img src='/images/PMMW_arch.png'>'
+excerpt: 'Based on our self-developed PMMW security screening dataset, experimental results including comparison with State-Of-The-Art (SOTA) methods and ablation study demonstrate that the PMMW-DETR obtains higher accuracy and classification confidence than previous works, and exhibits robustness to the PMMW images of low quality.'
 date: 2023-03-13
 venue: 'IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT'
 illustration: /images/PMMW_arch.png
