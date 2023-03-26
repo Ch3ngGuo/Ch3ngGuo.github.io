@@ -53,8 +53,10 @@
     {% endif %}
 
     {% if post.illustration %} 
-    <p src=post.illustration itemprop="description">{{ ost.illustration }}</p>
-    
+    <p src=post.illustration itemprop="description">{{ post.illustration }}</p>
+    {% endif %}
+
+
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
