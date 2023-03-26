@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Based on our self-developed PMMW security screening dataset, experimental results including comparison with State-Of-The-Art (SOTA) methods and ablation study demonstrate that the PMMW-DETR obtains higher accuracy and classification confidence than previous works, and exhibits robustness to the PMMW images of low quality.'
 date: 2023-03-13
 venue: 'IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT'
-illustration: '../images/PMMW_arch_53.png'
+illustration: "../images/PMMW_arch_53.png"
 paperurl: 'https://arxiv.org/abs/2212.00313'
 
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
