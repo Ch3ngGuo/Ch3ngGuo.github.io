@@ -7,7 +7,7 @@ excerpt: 'Based on our self-developed PMMW security screening dataset, experimen
 date: 2023-03-13
 venue: 'IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT'
 illustration: "../images/PMMW_arch.png"
-paperurl: 'https://arxiv.org/abs/2212.00313'
+paperurl: 'https://ieeexplore.ieee.org/document/10092797'
 
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 # <br/><img src='/images/PMMW_arch.png'>
@@ -26,7 +26,7 @@ Passive millimeter-wave (PMMW) is a significant potential technique for human se
 
 
 
-[Paper](https://arxiv.org/abs/2212.00313) | [Github](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
+[ArXiv](https://arxiv.org/abs/2212.00313) | [Paper](https://ieeexplore.ieee.org/document/10092797) | [Github](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
 
 ## Recommended citation:
 
@@ -40,6 +40,6 @@ Passive millimeter-wave (PMMW) is a significant potential technique for human se
   title={Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer.},
   author={Cheng Guo, Fei Hu, Yan Hu.},
   journal={IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT},
-  year={2022}
+  year={2023}
 }
 ```
