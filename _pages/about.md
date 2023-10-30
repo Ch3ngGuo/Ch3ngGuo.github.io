@@ -25,7 +25,8 @@ Also, in my spare time I enjoy films, music and reading. Max Weber and Rilke are
 
 Recent News 
 ------
-[2023/ 10] I won a national scholarship for graduate school (Top 3%).
+[2023/ 10] I won a national scholarship for graduate school (Top 3%). 
+
 [2023/ 03] Our paper has been accepted by *IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT*.
 
 
