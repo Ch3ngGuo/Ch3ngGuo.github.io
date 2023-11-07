@@ -20,7 +20,7 @@ Also, in my spare time I enjoy films, music and reading. Max Weber and Rilke are
 > was mit uns ringt, wie ist das groß; -->
 > Nur durch strenge Spezialisierung kann der wissenschaftliche Arbeiter tatsächlich das Vollgefühl, einmal und vielleicht nie wieder im Leben, sich zu eigen machen: hier habe ich etwas geleistet, was dauern wird.
 > 
->                                                                                                                                                                                                                                                               -Max Weber
+>                                                                                                                                                                                                                                            -Max Weber
 
 
 # Recent News 
