@@ -3,6 +3,10 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+     url: /files/ChengGuo_CV.pdf/
+    
+
   # - title: "Talks"
   #   url: /talks/    
 
@@ -16,8 +20,6 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-   - title: "CV"
-     url: /files/ChengGuo_CV.pdf/
-    
+   
   # - title: "Guide"
   #   url: /markdown/
