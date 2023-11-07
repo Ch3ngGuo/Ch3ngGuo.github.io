@@ -15,6 +15,7 @@ Meanwhile, I am also looking for PhD opportunities. To learn more about me, you 
 
 Also, in my spare time I enjoy films, music and reading. Max Weber and Rilke are my favorite authors, A Beautiful Mind is my favorite film, and Radiohead is my favorite band. 
 
+
 <!-- > Wie ist das klein, womit wir ringen,
 > was mit uns ringt, wie ist das groß; -->
 > Nur durch strenge Spezialisierung kann der wissenschaftliche Arbeiter tatsächlich das Vollgefühl, einmal und vielleicht nie wieder im Leben, sich zu eigen machen: hier habe ich etwas geleistet, was dauern wird.
@@ -22,15 +23,14 @@ Also, in my spare time I enjoy films, music and reading. Max Weber and Rilke are
 >                                                                                                                                                                                                                    -Max Weber
 
 
-
-Recent News 
+# Recent News 
 ------
-[2023/ 10] I won a national scholarship for graduate school (Top 3%). 
+[Oct. 2023] I won a national scholarship for graduate school (Top 2%). 
 
-[2023/ 03] Our paper has been accepted by *IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT*.
+[Mar. 2023] Our paper has been accepted by *IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT*.
 
+# Selected Publications
 
-
-
+**C. Guo**, F. Hu and Y. Hu, "Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-13, 2023, Art no. 5011513, doi: 10.1109/TIM.2023.3261932.
 
 
