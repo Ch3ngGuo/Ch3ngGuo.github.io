@@ -21,7 +21,7 @@ I am a Master's student at the **[Huazhong University of Science and Technology 
 
 Currently, I am researching <u>end2end task-aligned object detection</u>, <u>fluid-based motion prediction and image generation</u>, and <u>inverse problem solving</u> in the State Key Laboratory of Science and Technology on Multi-Spectral Information Processing (STMIP) Lab, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100). You can visit [Publications](/publications) to know more details.
 
-My research interest includes Human sensing and machine learning. I have published 1 paper <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Human sensing and machine learning. I have published 1 paper  <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FCh3ngGuo%2FCh3ngGuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 Also, in my spare time I enjoy badminton, If
 
