@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student at the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm). 
+I am a Master's student at the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm). 
 
-Currently, I am doing research about <u>end2end task-aligned object detection</u>, <u>fluid-based motion prediction and image generation</u>, and <u>inverse problem solving</u> in the State Key Laboratory of Science and Technology on Multi-Spectral Information Processing (STMIP) Lab, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100). You can visit [Publications](/publications) to know more details.
+Currently, I am researching <u>end2end task-aligned object detection</u>, <u>fluid-based motion prediction and image generation</u>, and <u>inverse problem solving</u> in the State Key Laboratory of Science and Technology on Multi-Spectral Information Processing (STMIP) Lab, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100). You can visit [Publications](/publications) to know more details.
 
 My research interest includes Human sensing and machine learning. I have published 1 paper <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 Also, in my spare time I enjoy badminton, If
+
 # 🔥 News 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.03*: &nbsp;🎉 one paper has been accepted by *IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT*.
 
 # 📝 Publications 
 
@@ -45,12 +45,10 @@ Also, in my spare time I enjoy badminton, If
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* National Scholarship (Top 1%)  
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2024.06 (now)*, Master, Huazhong University of Science and Technology, Wuhan.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
