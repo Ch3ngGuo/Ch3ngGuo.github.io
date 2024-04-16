@@ -19,9 +19,9 @@ redirect_from:
 
 I am a Master's student at the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm). 
 
-Currently, I am researching <u>end2end task-aligned object detection</u>, <u>fluid-based motion prediction and image generation</u>, and <u>inverse problem solving</u> in the State Key Laboratory of Science and Technology on Multi-Spectral Information Processing (STMIP) Lab, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100). You can visit [Publications](/publications) to know more details.
+Currently, I am researching <u>end2end task-aligned object detection</u>, <u>fluid-based motion prediction and image generation</u>, and <u>inverse problem solving</u> in the State Key Laboratory of Science and Technology on Multi-Spectral Information Processing (STMIP) Lab, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100). You can visit [Publications](/#-publications) to know more details.
 
-My research interest includes Human sensing and machine learning. I have published 1 paper  <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{url|https://scholar.google.com/citations?user=SIMLjAIAAAAJ}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+My research interest includes Human sensing and machine learning. I have published 1 paper  <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url| url_encode}}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 Also, in my spare time I enjoy badminton, If
 
