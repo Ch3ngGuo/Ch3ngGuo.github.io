@@ -21,7 +21,7 @@ I am a Master's student at the **[Huazhong University of Science and Technology 
 
 Currently, I am researching <u>end2end task-aligned object detection</u>, <u>fluid-based motion prediction and image generation</u>, and <u>inverse problem solving</u> in the State Key Laboratory of Science and Technology on Multi-Spectral Information Processing (STMIP) Lab, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100). You can visit [Publications](/publications) to know more details.
 
-My research interest includes Human sensing and machine learning. I have published 1 paper  <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FCh3ngGuo%2FCh3ngGuo.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes Human sensing and machine learning. I have published 1 paper  <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Also, in my spare time I enjoy badminton, If
 
@@ -42,7 +42,7 @@ Also, in my spare time I enjoy badminton, If
 </div>
 </div> -->
 
-- ``TIM 2023`` [Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer]([https://arxiv.org/abs/2105.02446](https://arxiv.org/abs/2212.00313)), **Cheng Guo**, Fei Hu, Yan Hu. [**Project**]([https://diffsinger.github.io/](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)) \|[https://img.shields.io/github/stars/Ch3ngGuo/opening-source-PMMW-dataset?style=social&label=DiffSpeech+Stars](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
+- ``TIM 2023`` [Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer]([https://arxiv.org/abs/2105.02446](https://arxiv.org/abs/2212.00313)), **Cheng Guo**, Fei Hu, Yan Hu. [**Project**](https://diffsinger.github.io/](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)\| [![](https://img.shields.io/github/stars/Ch3ngGuo/opening-source-PMMW-dataset?style=social&label=DiffSpeech+Stars)](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship (Top 1%)  
