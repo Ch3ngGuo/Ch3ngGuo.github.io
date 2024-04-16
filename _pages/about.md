@@ -23,7 +23,7 @@ Currently, I am researching <u>end2end task-aligned object detection</u>, <u>flu
 
 My research interest includes Human sensing and machine learning. I have published 1 paper <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-Also, in my spare time I enjoy badminton, If
+Also, I'm a huge fan of badminton, so feel free to find me for a game of badminton!
 
 # 🔥 News 
 - *2023.03*: &nbsp;🎉 one paper has been accepted by *IEEE TIM*.
