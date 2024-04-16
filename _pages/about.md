@@ -42,7 +42,7 @@ Also, in my spare time I enjoy badminton, If
 </div>
 </div> -->
 
-- ``TIM 2023`` [Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer]([https://arxiv.org/abs/2105.02446](https://arxiv.org/abs/2212.00313)), **Cheng Guo**, Fei Hu, Yan Hu. [**Project**](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)\| [![](https://img.shields.io/github/stars/Ch3ngGuo/opening-source-PMMW-dataset?style=social&label=Stars)](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
+- ``TIM 2023`` [Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer](https://arxiv.org/abs/2212.00313), **Cheng Guo**, Fei Hu, Yan Hu. [**Project**](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)\| [![](https://img.shields.io/github/stars/Ch3ngGuo/opening-source-PMMW-dataset?style=social&label=Stars)](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship (Top 1%)  
