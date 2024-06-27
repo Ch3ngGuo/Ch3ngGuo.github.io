@@ -47,11 +47,12 @@ Also, I'm a huge fan of badminton, so feel free to find me for a game of badmint
 - *2023.10* National Scholarship (Top 1%)  
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Master, Huazhong University of Science and Technology, Wuhan.
+- *2024.08 - Now*, PhD, University of North Carolina at Charlotte, Charlotte.
+- *2021.09 - 2024.06*, Master, Huazhong University of Science and Technology, Wuhan.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!--- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
