@@ -20,7 +20,7 @@ redirect_from:
 I am a PhD student at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, supervised by Prof. [Hongfei Xue](https://havocfixer.github.io/), majoring in [Computer and Information and Science](https://cci.charlotte.edu/). Before that, I received my Master's degree from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100), majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm).
 
 
-My research interest includes <u>Human sensing<u> and <u>Machine learning<u>. I have published 1 paper <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. You can visit [Publications](/#-publications) to know more details.
+My research interest includes <u> Human sensing <u> and <u> Machine learning <u>. I have published 1 paper <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. You can visit [Publications](/#-publications) to know more details.
 
 Also, I'm a huge fan of badminton, so feel free to find me for a game of badminton!
 
