@@ -49,6 +49,7 @@ Also, I'm a huge fan of badminton, so feel free to find me for a game of badmint
 # 📖 Educations
 - *2024.08 - Now*, PhD, University of North Carolina at Charlotte, Charlotte.
 - *2021.09 - 2024.06*, Master, Huazhong University of Science and Technology, Wuhan.
+- *2017.09 - 2021.06*, Undergraduate, Wuhan University of Science and Technology, Wuhan.
 
 # 💬 Invited Talks
 <!--- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
