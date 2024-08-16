@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cheng Guo"
-description              : "UNC Charlotte"
+description              : "PhD at UNC Charlotte, CS Dept. Focusing on wireless sensing."
 repository               : "Ch3ngGuo/Ch3ngGuo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Cheng Guo"
   avatar           : "images/myphoto512.jpg"
-  bio              : "PhD at UNC Charlotte, CS Dept. Focusing on wireless sensing."
-  location         : "US"
+  bio              : "UNC Charlotte"
+  location         : "U.S."
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SIMLjAIAAAAJ"
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Ch3ngGuo" # e.g., "github username"
+  github           : "Ch3ngGuo" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/cheng-guo-8009a0322/"# e.g., "linkedin username"
+  linkedin         : "cheng-guo-8009a0322"# e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0002-3126-7811"# e.g., "https://orcid.org/xxxx"
   pinterest        :
