@@ -25,6 +25,7 @@ My research interest includes <u>Human sensing</u> and <u>Machine learning</u>. 
 Also, I'm a huge fan of badminton, so feel free to find me for a game of badminton!
 
 # 🔥 News 
+- *2025.04*: &nbsp;🎉 one paper has been accepted by *IEEE TIM*.
 - *2023.03*: &nbsp;🎉 one paper has been accepted by *IEEE TIM*.
 
 # 📝 Publications 
@@ -41,8 +42,8 @@ Also, I'm a huge fan of badminton, so feel free to find me for a game of badmint
 </div>
 </div> -->
 
-- ``TIM 2023`` [Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer](https://arxiv.org/abs/2212.00313), **Cheng Guo**, Fei Hu, Yan Hu. [**Project**](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)\| [![](https://img.shields.io/github/stars/Ch3ngGuo/opening-source-PMMW-dataset?style=social&label=Stars)](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
-
+- ``TIM 2023`` [Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer](https://arxiv.org/abs/2212.00313), **Cheng Guo**, Fei Hu, Yan Hu. <!-- [**Project**](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)\| [![](https://img.shields.io/github/stars/Ch3ngGuo/opening-source-PMMW-dataset?style=social&label=Stars)](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
+ -->
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship (Top 1%)  
 
