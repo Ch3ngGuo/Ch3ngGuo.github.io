@@ -20,7 +20,7 @@ redirect_from:
 I am a PhD student at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, supervised by Prof. [Hongfei Xue](https://havocfixer.github.io/), majoring in [Computer and Information and Science](https://cci.charlotte.edu/). Before that, I received my Master's degree from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100), majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm).
 
 
-My research interest includes <u>Human sensing</u> and <u>Machine learning</u>. I have published 1 paper <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. You can visit [Publications](/#-publications) to know more details.
+My research interest includes <u>Human sensing</u> and <u>Machine learning</u>. I have published 2 papers <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. You can visit [Publications](/#-publications) to know more details.
 
 # 🔥 News 
 - *2025.04*: &nbsp;🎉 one paper has been accepted by *IEEE TIM*.
@@ -41,7 +41,6 @@ My research interest includes <u>Human sensing</u> and <u>Machine learning</u>. 
 </div> -->
 
 - ``TIM 2025`` [An Iterative Method Combining Fuzzy Fusion and Fisher Vectors for Concealed Object Detection in Passive Millimeter-Wave Imaging](https://ieeexplore.ieee.org/document/10980100), Bo Fang, Dong Zhu, Yayun Cheng, Fei Hu, Yanyu Xu, Xinpeng Chen, Jingyu Tao, **Cheng Guo**
-- 
 - ``TIM 2023`` [Concealed Object Detection for Passive Millimeter-Wave Security Imaging Based on Task-Aligned Detection Transformer](https://arxiv.org/abs/2212.00313), **Cheng Guo**, Fei Hu, Yan Hu. <!-- [**Project**](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)\| [![](https://img.shields.io/github/stars/Ch3ngGuo/opening-source-PMMW-dataset?style=social&label=Stars)](https://github.com/Ch3ngGuo/opening-source-PMMW-dataset)
  -->
 # 🎖 Honors and Awards
