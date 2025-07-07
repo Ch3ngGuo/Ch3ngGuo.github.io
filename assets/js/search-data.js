@@ -391,16 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-one-paper-accepted-at-ieee-transactions-on-instrumentation-and-measurement-tada",
+          title: 'One paper accepted at IEEE Transactions on Instrumentation and Measurement! :tada:',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-awarded-the-china-national-scholarship-top-1-1st-place-medal",
+          title: 'Awarded the China National Scholarship (Top 1%)! :1st_place_medal:',
           description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+          section: "News",},{id: "news-one-paper-accepted-at-ieee-transactions-on-instrumentation-and-measurement-tada",
+          title: 'One paper accepted at IEEE Transactions on Instrumentation and Measurement! :tada:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
