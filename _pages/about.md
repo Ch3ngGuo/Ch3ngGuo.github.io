@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, supervised by Prof. [Hongfei Xue](https://havocfixer.github.io/), majoring in [Computer and Information and Science](https://cci.charlotte.edu/). Before that, I received my Master's degree from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100), majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interest includes <u>Human sensing</u> and <u>Machine learning</u>. I have published 2 papers <a href='https://scholar.google.com/citations?user=SIMLjAIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. You can visit [Publications](/#-publications) to know more details.
