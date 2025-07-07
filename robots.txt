@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Ch3ngGuo.github.io/sitemap.xml
+Sitemap: https://ch3ngguo.github.io/sitemap.xml
