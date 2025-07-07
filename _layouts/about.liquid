@@ -44,7 +44,7 @@ layout: default
       {%- if page.social %}
         <div class="social">
           <div class="contact-icons">
-            {% include social.html %}
+            {% include social.liquid %}
           </div>
 
           <div class="contact-note">
@@ -67,7 +67,7 @@ layout: default
     <!--
       {% if page.latest_posts -%}
         <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
-        {%- include latest_posts.html %}
+        {%- include latest_posts.liquid %}
       {%- endif %}
     -->
 
@@ -83,7 +83,7 @@ layout: default
         </h2>
         <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
       </div>
-      {%- include selected_papers.html %}
+      {%- include selected_papers.liquid %}
     {%- endif %}
 
     <!-- Miscellaneous -->
@@ -92,7 +92,7 @@ layout: default
         <h2 style="margin-right: 20px;">Miscellaneous</h2>
         <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
       </div>
-      {%- include miscellaneous.html %}
+      {%- include miscellaneous.liquid %}
     {%- endif %}
   </article>
 </div>
