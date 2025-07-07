@@ -16,7 +16,12 @@ li {
 }
 
 // 标题行间距
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   line-height: 1.4em !important;
   margin-top: 1.5em !important;
   margin-bottom: 0.8em !important;
@@ -34,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.8em !important;
     margin-bottom: 1.2em !important;
   }
-  
+
   li {
     line-height: 1.7em !important;
     margin-bottom: 0.6em !important;
@@ -53,4 +58,4 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.7em !important;
     margin: 15px !important; // 从原来的10px增加到15px
   }
-} 
+}

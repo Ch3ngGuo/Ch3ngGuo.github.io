@@ -4,14 +4,14 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Cheng
-middle_name: 
+middle_name:
 last_name: Guo
 email: cguo3@charlote.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ch3ngguo.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -49,7 +49,7 @@ posts_in_search: true
 bib_search: true
 
 # Dimensions
-max_width: 1200px
+max_width: 900px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -186,7 +186,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - assets/jupyter/  # 排除jupyter文件夹避免错误
+  - assets/jupyter/ # 排除jupyter文件夹避免错误
 keep_files:
   - CNAME
   - .nojekyll
