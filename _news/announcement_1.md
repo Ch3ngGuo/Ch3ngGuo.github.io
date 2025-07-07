@@ -1,8 +1,7 @@
 ---
-layout: post
-date: 2023-10-22 15:59:00-0400
+date: 2023-10-22
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Awarded the China National Scholarship (Top 1%)! :1st_place_medal:
