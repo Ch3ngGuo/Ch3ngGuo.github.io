@@ -1,3 +1,5 @@
+# DISABLED: Remove this line to enable the workflow
+# 
 # Lighthouse-Badger-Easy | GitHub Action Workflow
 #
 # Description: Generates, adds & updates manually/automatically Lighthouse badges & reports from one/multiple input URL(s) to the current repository & main branch with minimal settings
