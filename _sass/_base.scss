@@ -718,6 +718,7 @@ footer.sticky-bottom {
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
+    margin-bottom: -2rem;
     text-align: right;
   }
 
@@ -1415,5 +1416,33 @@ figure.cover {
   /* mouse over link */
   a.cover-link:hover {
     color: #23212d !important;
+  }
+}
+
+// Publication year styling for right side display
+.publication-year {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  height: 100%;
+  padding-top: 0.5rem;
+
+  .year-badge {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--global-theme-color);
+    background-color: transparent;
+    padding: 0.3rem 0.6rem;
+    border-radius: 0.25rem;
+    border: 2px solid var(--global-theme-color);
+    display: inline-block;
+    text-align: center;
+    min-width: 60px;
+    transition: all 0.3s ease;
+
+    &:hover {
+      background-color: var(--global-theme-color);
+      color: var(--global-bg-color);
+    }
   }
 }

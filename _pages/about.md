@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**Cheng(诚)** is a PhD student at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, supervised by Prof. [Hongfei Xue](https://havocfixer.github.io/), majoring in [Computer and Information and Science](https://cci.charlotte.edu/). Before that, I received my Master's degree from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100), majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm).
+**Cheng(诚)** is a PhD student at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, supervised by Prof. [Hongfei Xue](https://havocfixer.github.io/), majoring in [Computer and Information and Science](https://cci.charlotte.edu/). Before that, He received his Master's degree from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100), majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm).
 
-My research interest includes **Human sensing** and **Large Models**. You can visit [Publications](/publications) to know more details.
+His research interest includes **Human sensing** and **Large Models**. You can visit [Publications](/publications) to know more details.
