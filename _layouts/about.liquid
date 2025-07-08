@@ -87,7 +87,7 @@ layout: default
     {%- endif %}
 
     <!-- Miscellaneous -->
-    {% if page.miscellaneous -%}
+    {% if page.miscellaneous and page.miscellaneous.enabled -%}
       <div style="display: flex; align-items: center;">
         <h2 style="margin-right: 20px;">Miscellaneous</h2>
         <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
