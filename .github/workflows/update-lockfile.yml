@@ -16,7 +16,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # A common, compatible version
+          ruby-version: "3.1" # A common, compatible version
 
       - name: Update Gemfile.lock
         run: bundle install
@@ -25,4 +25,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: Update Gemfile.lock"
-          file_pattern: Gemfile.lock 
+          file_pattern: Gemfile.lock
