@@ -734,13 +734,14 @@ footer.sticky-bottom {
       }
 
       .abbr {
+        height: 2rem;
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+          padding-left: 1rem;
+          padding-right: 1rem;
 
           a {
             color: white;
