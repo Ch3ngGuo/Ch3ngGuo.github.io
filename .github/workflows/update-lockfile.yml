@@ -3,6 +3,9 @@ name: Update Gemfile.lock
 on:
   workflow_dispatch: # Allows manual triggering
 
+permissions:
+  contents: write
+
 jobs:
   update-lockfile:
     runs-on: ubuntu-latest
