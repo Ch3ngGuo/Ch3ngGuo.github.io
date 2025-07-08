@@ -55,14 +55,13 @@ layout: default
     </div>
 
     <!-- News -->
-    {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a></h2>
-      </h2>
-      </h2>
-      </h2>
-      {% include news.liquid limit=true %}
-    {% endif %}
+    {% if page.announcements and page.announcements.enabled -%}
+    <div style="display: flex; align-items: center;">
+      <h2 style="margin-right: 20px;"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+      <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
+    </div>
+    {%- include news.html limit=true %}
+    {%- endif %}
 
     <!-- Latest posts -->
     <!--
@@ -88,7 +87,7 @@ layout: default
     {%- endif %}
 
     <!-- Miscellaneous -->
-    {% if page.miscellaneous and site.miscellaneous.enabled -%}
+    {% if page.miscellaneous and page.miscellaneous.enabled -%}
       <div style="display: flex; align-items: center;">
         <h2 style="margin-right: 20px;">Miscellaneous</h2>
         <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
