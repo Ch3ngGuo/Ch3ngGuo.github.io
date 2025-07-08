@@ -14,7 +14,6 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1' # A common, compatible version
-          bundler-cache: true # Caches gems for faster builds
 
       - name: Update Gemfile.lock
         run: bundle install
