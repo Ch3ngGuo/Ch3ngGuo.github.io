@@ -29,6 +29,19 @@ latest_posts:
 miscellaneous: true # includes a miscellaneous section
 ---
 
-**Cheng(诚)** is a PhD student at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, supervised by Prof. [Hongfei Xue](https://havocfixer.github.io/), majoring in [Computer and Information and Science](https://cci.charlotte.edu/). Before that, He received his Master's degree from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, supervised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100), majoring in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm).
+**Cheng (诚)** is a Ph.D. student in [Computer and Information Sciences](https://cci.charlotte.edu/) at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, advised by Prof. [Hongfei Xue](https://havocfixer.github.io/). Before joining UNC Charlotte, he received his Master's degree in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm) from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, advised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100).
 
-His research interest includes **Human sensing** and **Large Models**. You can visit [Publications](/publications) to know more details.
+His research interests include **human sensing** and **large models**. Please see [Publications](/publications) for more details.
+
+<div style="display: flex; align-items: center;">
+  <h2 style="margin-right: 20px;">Experience</h2>
+  <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
+</div>
+
+<ul>
+  <li>
+    <strong>Research Intern</strong>,
+    <a href="https://www.merl.com/">Mitsubishi Electric Research Laboratories (MERL)</a><br>
+    <em>May - August</em>
+  </li>
+</ul>
