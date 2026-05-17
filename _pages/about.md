@@ -42,6 +42,6 @@ His research interests include **human sensing** and **large models**. Please se
   <li>
     <strong>Research Intern</strong>,
     <a href="https://www.merl.com/">Mitsubishi Electric Research Laboratories (MERL)</a><br>
-    <em>May - August</em>
+    <em>May - August 2026</em>
   </li>
 </ul>
