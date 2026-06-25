@@ -31,7 +31,7 @@ miscellaneous: true # includes a miscellaneous section
 
 **Cheng (诚)** is a Ph.D. student in [Computer and Information Sciences](https://cci.charlotte.edu/) at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, advised by Prof. [Hongfei Xue](https://havocfixer.github.io/). Before joining UNC Charlotte, he received his Master's degree in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm) from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, advised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100).
 
-His research interests include **human sensing** and **large models**. Please see [Publications](/publications) for more details.
+His research centers on **Physical AI** for robust and scalable perception in the real world. He develops learning- and simulation-based methods that allow intelligent systems to perceive humans, motion, and 3D scenes from radars and complementary sensors. His work explores radar-based human mesh and motion recovery, radar-camera perception, simulation-to-real transfer, and foundation models for sensor-based intelligence. Please see [Publications](/publications) for more details.
 
 <div style="display: flex; align-items: center;">
   <h2 style="margin-right: 20px;">Experience</h2>
