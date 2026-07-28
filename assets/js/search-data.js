@@ -366,6 +366,12 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-accepted-at-ieee-transactions-on-instrumentation-and-measurement-tada",
           title: 'One paper accepted at IEEE Transactions on Instrumentation and Measurement! :tada:',
           description: "",
+          section: "News",},{id: "news-mmsimprior-is-now-available-on-arxiv",
+          title: 'mmSimPrior is now available on arXiv.',
+          description: "",
+          section: "News",},{id: "news-our-paper-monocular-models-are-strong-learners-for-multi-view-human-mesh-recovery-was-accepted-to-eccv-2026-as-an-oral-presentation",
+          title: 'Our paper Monocular Models are Strong Learners for Multi-View Human Mesh Recovery was...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
