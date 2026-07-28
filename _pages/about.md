@@ -2,46 +2,49 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: Ph.D. Student in Computer Science &middot; Physical AI and Multimodal Sensing
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image_circular: false
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 
-miscellaneous: true # includes a miscellaneous section
+miscellaneous: true
 ---
 
-**Cheng (诚)** is a Ph.D. student in [Computer and Information Sciences](https://cci.charlotte.edu/) at the **[University of North Carolina at Charlotte (UNC Charlotte)](https://www.charlotte.edu/)**, advised by Prof. [Hongfei Xue](https://havocfixer.github.io/). Before joining UNC Charlotte, he received his Master's degree in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm) from the **[Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/)**, advised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100).
+I am **Cheng Guo**, a Ph.D. student in [Computer and Information Sciences](https://cci.charlotte.edu/) at **[UNC Charlotte](https://www.charlotte.edu/)**, advised by Prof. [Hongfei Xue](https://havocfixer.github.io/). Before joining UNC Charlotte, I received my Master's degree in [Information and Communication Engineering](http://english.eic.hust.edu.cn/International/Overview.htm) from **[Huazhong University of Science and Technology](http://english.hust.edu.cn/)**, advised by Prof. [Fei Hu](https://ieeexplore.ieee.org/author/37536063100).
 
-His research centers on **Physical AI** for robust and scalable perception in the real world. He develops learning- and simulation-based methods that allow intelligent systems to perceive humans, motion, and 3D scenes from radars and complementary sensors. His work explores radar-based human mesh and motion recovery, radar-camera perception, simulation-to-real transfer, and foundation models for sensor-based intelligence. Please see [Publications](/publications) for more details.
+My research centers on **Physical AI** for robust and scalable perception in the real world. I develop learning- and simulation-based methods that allow intelligent systems to perceive humans, motion, and 3D scenes from radars and complementary sensors. My work spans radar-based human mesh and motion recovery, radar-camera perception, simulation-to-real transfer, and foundation models for sensor-based intelligence.
 
-<div style="display: flex; align-items: center;">
-  <h2 style="margin-right: 20px;">Experience</h2>
-  <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
+<div class="research-focus" aria-label="Research focus">
+  <strong>Research focus</strong>
+  <span>Radar perception</span>
+  <span>Human motion and mesh recovery</span>
+  <span>Simulation-to-real learning</span>
 </div>
 
-<ul>
-  <li>
+<div class="home-section-heading home-section-heading-static">
+  <h2>Experience</h2>
+  <span aria-hidden="true"></span>
+</div>
+
+<div class="experience-entry">
+  <div>
     <strong>Research Intern</strong>,
-    <a href="https://www.merl.com/">Mitsubishi Electric Research Laboratories (MERL)</a><br>
-    <em>May - August 2026</em>
-  </li>
-</ul>
+    <a href="https://www.merl.com/">Mitsubishi Electric Research Laboratories (MERL)</a>
+  </div>
+  <time>May - August 2026</time>
+</div>

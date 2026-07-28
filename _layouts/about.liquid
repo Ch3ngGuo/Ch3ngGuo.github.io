@@ -56,9 +56,9 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled -%}
-      <div style="display: flex; align-items: center;">
-        <h2 style="margin-right: 20px;"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
-        <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
+      <div class="home-section-heading">
+        <h2><a href="{{ '/news/' | relative_url }}">News</a></h2>
+        <span aria-hidden="true"></span>
       </div>
       {%- include news.liquid limit=true %}
     {%- endif %}
@@ -73,24 +73,18 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers -%}
-      <div style="display: flex; align-items: center;">
-        <h2 style="margin-right: 20px;">
-          <a
-            href="{{ '/publications/' | relative_url }}"
-            style="color: inherit;"
-            >Publications</a
-          >
-        </h2>
-        <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
+      <div class="home-section-heading">
+        <h2><a href="{{ '/publications/' | relative_url }}">Selected Publications</a></h2>
+        <span aria-hidden="true"></span>
       </div>
       {%- include selected_papers.liquid %}
     {%- endif %}
 
     <!-- Miscellaneous -->
     {% if page.miscellaneous -%}
-      <div style="display: flex; align-items: center;">
-        <h2 style="margin-right: 20px;">Miscellaneous</h2>
-        <hr style="flex: 1; border: none; height: 0.5px; color: inherit; background-color: currentColor;">
+      <div class="home-section-heading home-section-heading-static">
+        <h2>Miscellaneous</h2>
+        <span aria-hidden="true"></span>
       </div>
       {%- include miscellaneous.liquid %}
     {%- endif %}

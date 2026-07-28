@@ -162,6 +162,9 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.award_name %}
+      <div class="publication-highlight">{{ entry.award_name }}</div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
@@ -169,7 +172,7 @@
         <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
       {%- endif %}
       {%- if entry.arxiv %}
-        <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+        <a href="https://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {%- endif %}
       {%- if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
@@ -179,20 +182,16 @@
       {%- endif %}
       {%- if entry.pdf %}
         {% if entry.pdf contains '://' -%}
-          <!-- <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a> -->
-          [<a href="{{ entry.pdf }}">Paper</a>]
+          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
         {%- else -%}
-          <!-- <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a> -->
-          [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}">Paper</a>]
+          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
         {%- endif %}
       {%- endif %}
       {%- if entry.supp %}
         {% if entry.supp contains '://' -%}
-          <!-- <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a> -->
-          [<a href="{{ entry.supp }}">Supplementary</a>]
+          <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supplementary</a>
         {%- else -%}
-          <!-- <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a> -->
-          [<a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}">Supplementary</a>]
+          <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supplementary</a>
         {%- endif %}
       {%- endif %}
       {%- if entry.video %}
@@ -202,8 +201,7 @@
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {%- endif %}
       {%- if entry.code %}
-        <!-- <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a> -->
-        [<a href="{{ entry.code }}">Code</a>]
+        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
       {%- endif %}
       {%- if entry.poster %}
         {% if entry.poster contains '://' -%}
@@ -220,8 +218,7 @@
         {%- endif %}
       {%- endif %}
       {%- if entry.website %}
-        <!-- <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a> -->
-        [<a href="{{ entry.website }}">Project Page</a>]
+        <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Project Page</a>
       {%- endif %}
     </div>
     {% if site.enable_publication_badges %}
