@@ -28,7 +28,23 @@
         </div>
       {%- endif -%}
       {%- if entry.preview -%}
-        <div class="preview">
+        <div class="preview{% if entry.preview_video %} has-video{% endif %}">
+          {%- if entry.preview_video -%}
+            {%- if entry.preview_video contains '://' -%}
+              {%- assign preview_video_src = entry.preview_video -%}
+            {%- else -%}
+              {%- assign preview_video_src = entry.preview_video | prepend: '/assets/video/publication_preview/' | relative_url -%}
+            {%- endif -%}
+            <video
+              class="preview-video z-depth-1 rounded"
+              src="{{ preview_video_src }}"
+              muted
+              loop
+              playsinline
+              preload="none"
+              aria-hidden="true"
+            ></video>
+          {%- endif -%}
           {% if entry.preview contains '://' -%}
             <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
           {%- else -%}
@@ -57,6 +73,21 @@
       {% assign author_array_limit = author_array_size %}
       {%- if site.max_author_limit and author_array_size > site.max_author_limit %}
         {% assign author_array_limit = site.max_author_limit %}
+        {%- comment -%} Never hide my own name behind "N more authors". {%- endcomment -%}
+        {%- for author in entry.author_array -%}
+          {%- assign self_last_name = author.last | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' -%}
+          {%- if site.scholar.last_name contains self_last_name and site.scholar.first_name contains author.first -%}
+            {%- if forloop.index > author_array_limit -%}
+              {%- assign author_array_limit = forloop.index -%}
+            {%- endif -%}
+            {%- break -%}
+          {%- endif -%}
+        {%- endfor -%}
+        {%- comment -%} Collapsing a single remaining author saves nothing. {%- endcomment -%}
+        {%- assign remaining_authors = author_array_size | minus: author_array_limit -%}
+        {%- if remaining_authors == 1 -%}
+          {%- assign author_array_limit = author_array_size -%}
+        {%- endif -%}
       {% endif %}
 
       {%- for author in entry.author_array limit: author_array_limit -%}
