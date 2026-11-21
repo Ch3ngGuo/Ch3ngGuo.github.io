@@ -29,10 +29,9 @@
       row.addEventListener("mouseleave", () => stop(preview));
     });
   } else if (!reduceMotion && "IntersectionObserver" in window) {
-    const observer = new IntersectionObserver(
-      (entries) => entries.forEach((e) => (e.isIntersecting ? play(e.target) : stop(e.target))),
-      { threshold: 0.6 }
-    );
+    const observer = new IntersectionObserver((entries) => entries.forEach((e) => (e.isIntersecting ? play(e.target) : stop(e.target))), {
+      threshold: 0.6,
+    });
     previews.forEach((preview) => observer.observe(preview));
   }
 })();
