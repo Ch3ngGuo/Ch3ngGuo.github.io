@@ -35,15 +35,18 @@
             {%- else -%}
               {%- assign preview_video_src = entry.preview_video | prepend: '/assets/video/publication_preview/' | relative_url -%}
             {%- endif -%}
-            <video
-              class="preview-video z-depth-1 rounded"
-              src="{{ preview_video_src }}"
-              muted
-              loop
-              playsinline
-              preload="none"
-              aria-hidden="true"
-            ></video>
+            <video class="preview-video z-depth-1 rounded" muted loop playsinline preload="none" aria-hidden="true">
+              <source
+                src="{{ preview_video_src }}"
+                {% if preview_video_src contains '.webm' %}
+                  type="video/webm"
+                {% endif %}
+              >
+              {%- if entry.preview_video_mp4 -%}
+                {%- assign preview_video_mp4_src = entry.preview_video_mp4 | prepend: '/assets/video/publication_preview/' | relative_url -%}
+                <source src="{{ preview_video_mp4_src }}" type="video/mp4">
+              {%- endif -%}
+            </video>
           {%- endif -%}
           {% if entry.preview contains '://' -%}
             <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
