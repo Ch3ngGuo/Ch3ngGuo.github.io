@@ -375,6 +375,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-zero-fi-zero-shot-wi-fi-based-human-activity-recognition-via-contrastive-signal-language-alignment-is-now-available-on-arxiv",
           title: 'Our paper Zero-Fi: Zero-Shot Wi-Fi-Based Human Activity Recognition via Contrastive Signal-Language Alignment is...',
           description: "",
+          section: "News",},{id: "news-our-paper-omnisenmo-a-unified-multisensory-language-model-for-generalizable-human-motion-estimation-understanding-and-prediction-is-now-available-on-arxiv",
+          title: 'Our paper OmniSenMo: A Unified Multisensory Language Model for Generalizable Human Motion Estimation,...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
